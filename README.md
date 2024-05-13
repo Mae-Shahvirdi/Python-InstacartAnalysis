@@ -1,13 +1,13 @@
 # Instacart Grocery Basket Analysis
 
 ## Introduction
-As an analyst for Instacart, an online grocery store operating through an app, your role is pivotal in uncovering deeper insights into the company's sales patterns. While Instacart boasts commendable sales figures, there's a desire to delve further into their data to extract actionable insights. Your task is to conduct an initial data analysis and exploration to uncover valuable insights and propose strategies for enhanced segmentation based on provided criteria.
+In the capacity of an analyst for Instacart, an online grocery store operating through an app, the role involves a crucial aspect in revealing deeper insights into the company's sales patterns. Although Instacart demonstrates commendable sales figures, there exists a desire to delve further into their data to extract actionable insights. The task at hand involves conducting an initial data analysis and exploration to uncover valuable insights and propose strategies for enhanced segmentation based on provided criteria.
 
 ## Context
-The stakeholders at Instacart are keenly interested in understanding the diverse range of customers within their database and their respective purchasing behaviors. Recognizing the limitations of employing uniform marketing methods, they are contemplating a shift towards a targeted marketing approach. This entails tailoring marketing campaigns to different customer segments to evaluate their impact on product sales. Your analysis is expected to shed light on the potential contours of such a strategy, ensuring that Instacart effectively targets specific customer profiles with relevant products.
+The stakeholders at Instacart are keenly interested in understanding the diverse range of customers within their database and their respective purchasing behaviors. Recognizing the limitations of employing uniform marketing methods, they are contemplating a shift towards a targeted marketing approach. This entails tailoring marketing campaigns to different customer segments to evaluate their impact on product sales. The analysis is expected to shed light on the potential contours of such a strategy, ensuring that Instacart effectively targets specific customer profiles with relevant products.
 
 ## Objective
-The primary objective of your analysis is to inform the formulation of a targeted marketing strategy for Instacart. By leveraging insights derived from the data, you will delineate customer segments and their corresponding purchasing behaviors. These insights will serve as the foundation for crafting tailored marketing campaigns aimed at different customer profiles. Ultimately, the goal is to optimize Instacart's marketing efforts to resonate with diverse customer segments and drive increased sales of their products.
+The primary objective of the analysis is to inform the formulation of a targeted marketing strategy for Instacart. By leveraging insights derived from the data, customer segments and their corresponding purchasing behaviors will be delineated. These insights will serve as the foundation for crafting tailored marketing campaigns aimed at different customer profiles. Ultimately, the goal is to optimize Instacart's marketing efforts to resonate with diverse customer segments and drive increased sales of their products.
 
 ## Key Questions
 The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
@@ -26,9 +26,9 @@ Age? Income? Certain types of goods? Family status?
 profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 ## Stakeholders
-● Vice President of Marketing: “We’re always looking into improving our targeting for ad campaigns.”
-● Senior Vice President of Sales: “We need to know what part of our offering has the lowest market share and why. Based on this input, we could improve this sector and boost sales.”
-● Instacart Customer: “I want to receive ads, promotions, and recommendations that are relevant to the products I order regularly.”
+Vice President of Marketing: “We’re always looking into improving our targeting for ad campaigns.”
+Senior Vice President of Sales: “We need to know what part of our offering has the lowest market share and why. Based on this input, we could improve this sector and boost sales.”
+Instacart Customer: “I want to receive ads, promotions, and recommendations that are relevant to the products I order regularly.”
 
 ## Data
 The datasets used were:-
